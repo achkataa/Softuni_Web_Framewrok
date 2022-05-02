@@ -1,4 +1,4 @@
-"""Softuni_Web_Framewrok URL Configuration
+"""Softuni_Web_Framework URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/

@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 from django.views.generic import TemplateView, ListView
 
-from Softuni_Web_Framewrok.main.models import Item
+from Softuni_Web_Framework.main.models import Item
 
 
 class IndexView(ListView):
