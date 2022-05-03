@@ -83,10 +83,10 @@ WSGI_APPLICATION = 'Softuni_Web_Framewrok.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'deployment_db',
-        'USER': 'postgres',
-        'PASSWORD': 'mysecretpassword',
-        'HOST': 'localhost',
+        'NAME': 'dfr5rll27m5h30',
+        'USER': 'omlxjmaeztupnd',
+        'PASSWORD': '4e6c24910b3b0178e2f3aa2e8651b47d4925e57acbc0190f6307ebd831b4e93a',
+        'HOST': 'ec2-99-80-170-190.eu-west-1.compute.amazonaws.com',
         'POST': '',
     }
 }
