@@ -1,5 +1,5 @@
 """
-WSGI config for Softuni_Web_Framework project.
+WSGI config for Softuni_Web_Framewrok project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Softuni_Web_Framework.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Softuni_Web_Framewrok.settings')
 
 application = get_wsgi_application()

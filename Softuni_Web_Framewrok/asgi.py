@@ -1,5 +1,5 @@
 """
-ASGI config for Softuni_Web_Framework project.
+ASGI config for Softuni_Web_Framewrok project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Softuni_Web_Framework.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Softuni_Web_Framewrok.settings')
 
 application = get_asgi_application()

@@ -1,4 +1,4 @@
-"""Softuni_Web_Framework URL Configuration
+"""Softuni_Web_Framewrok URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
@@ -18,5 +18,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('Softuni_Web_Framework.main.urls'))
+    path('', include('Softuni_Web_Framewrok.main.urls'))
 ]
