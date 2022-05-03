@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath Softuni_Web_Framework.wsgi
+web: gunicorn --pythonpath Softuni_Web_Framewrok.wsgi
